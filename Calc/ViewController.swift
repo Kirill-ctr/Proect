@@ -8,6 +8,11 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBAction func Digits(_ sender: UIButton) {
+    }
+    
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
