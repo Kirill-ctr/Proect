@@ -14,4 +14,4 @@ Storyboard - это файл в котором создается основно
 Этот калькулятор может выполнять сложение, вычитание, деление, умнодение дробных числе
 
 ## Макет в Figma
-https://www.figma.com/file/SdqXTSDoPYj3WssKIRM1wO/Untitled?type=design&node-id=0-1&t=lkANGgU8GM2R8YWx-0
+https://www.figma.com/file/SdqXTSDoPYj3WssKIRM1wO/Untitled?type=design&node-id=0-1&t=O0HiH4ZrmEg43dzO-0
