@@ -10,6 +10,11 @@ Storyboard - это файл в котором создается основно
 ## Снимок проекта
 <img width="1440" alt="Снимок экрана 2023-05-15 в 10 52 42 PM" src="https://github.com/Kirill-ctr/Proect/assets/56933553/b7cebf3d-f420-41c1-86c2-7e542fffcada">
 
+## UseCase диаграмма
+
+<img width="468" alt="image" src="https://github.com/Kirill-ctr/Proect/assets/56933553/0645b7d1-18f6-4ee7-9261-dcafc9e320a1">
+
+
 ## Возможности проекта
 Этот калькулятор может выполнять сложение, вычитание, деление, умнодение дробных числе
 
